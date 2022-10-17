@@ -16,10 +16,13 @@
 $age = 24;
 
 do {
-
-    echo "<p> You have not met the minimum age requirement !</p>";
+    echo "</br>";
+    echo "</br>";
+    echo "</br>";
+    echo "<p class = 'text-danger' > You have not met the minimum age requirement !</p>";
 
 } while ($age > 24);
+
 
 
 ?>
