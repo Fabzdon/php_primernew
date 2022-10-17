@@ -53,5 +53,6 @@ echo "Replace a string with another string " . str_replace('rise ', 'fall' , $na
 
 
 ?>
+<?php require 'miscellaneous/footer.php' ?>
 </body>
 </html>
