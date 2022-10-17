@@ -18,20 +18,22 @@
 
 <?php
 $age = 24;
+$randomNum = rand(10,100);
 
-if ($age >= 24)
+
+if ($randomNum >= $age)
 {
 print "<br/>";
 print "<br/>";
   
- echo "<h4> the number is 24 or greater </h4>";
+ echo "<h4 class = 'text-success'> the number is greater or equal to the number 24! refresh the page to try again</h4>";
 
 }
 else 
 {
     print "<br/>";
     print "<br/>";
- echo "<h4> the number is less than 24 </h4>";
+ echo "<h4 class = 'text-danger' > this random number is not what we are looking for! refresh the page to try again </h4>";
 
 }
 $age = '';
