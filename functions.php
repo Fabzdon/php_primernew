@@ -37,6 +37,14 @@
 
     }
 
+    function findSum($num1, $num2, $num3){
+        $sum = $num1 + $num2 + $num3;
+      return $sum;
+    }
+    $getAvg = findsum($num1, $num2, $num3);
+
+    echo "The Sum of the numbers are: " . $getAvg; 
+
 
     ?>
     <?php require 'miscellaneous/footer.php' ?>
