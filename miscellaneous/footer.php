@@ -15,10 +15,25 @@ echo "<br/> </>";
 echo "<br/> </>";
 echo "<br/> </>";
 echo "<br/> </>";
-
-echo '<p>Created by Fabian Gordon ID#: 19171005276</p>';
-
 ?>
+
+<footer> 
+<h1> Created by Fabian Gordon ID#: 19171005276 </h1> 
+</footer>
+
+<style>
+    footer {
+
+position: absolute;
+bottom: 10px;
+width: 100%;
+background-color: lightblue;
+color: white;
+text-align: center;
+text-decoration: double;
+
+    }
+</style>
 </div>
 
     <!-- JavaScript Bundle with Popper -->
