@@ -28,7 +28,7 @@ echo("Capitalization of first letter of each word:" . " " . ucwords($name) . "<b
 print "<br/>";
 echo("Capitalize entire word" . " " . strtoupper($lname). "<br/>" );
 print "<br/>";
-echo("Lower case entire word" . " " . strtolower("THIS WAS ALL UPPER CASE"). "<br/>" );
+echo("Lower case entire word" . " " . strtolower("|THIS WAS ALL UPPER CASE|"). "<br/>" );
 print "<br/>";
 echo("Repeat String:" . " " . str_repeat('test string',10) . "<br/>");
 print "<br/>";
