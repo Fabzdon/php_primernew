@@ -15,11 +15,11 @@
 
 <h2>Follow A Link For The Corresponding Page</h2>
 <ul class="navbar navbar-light" style="background-color: #e3f2fd;">
-<li  > <a  class="container-fluid" href="ifstatement.php" class="navbar-brand" href="#"> Simple If Statement </a>
+<li  > <a  class="container-fluid" href="ifStatement.php" class="navbar-brand" href="#"> Simple If Statement </a>
 <li  > <a  class="container-fluid" href="arrays.php" class="navbar-brand" href="#"> Simple Array and Printouts </a>
 <li  > <a  class="container-fluid" href="forLoops.php" class="navbar-brand" href="#"> Simple For Loop </a>
 <li  > <a  class="container-fluid" href="doWhile.php" class="navbar-brand" href="#"> Simple Do While </a>
-<li > <a  class="container-fluid" href="switchstatement.php" class="navbar-brand" href="#"> Simple Switch Statement </a>
+<li > <a  class="container-fluid" href="switchStatement.php" class="navbar-brand" href="#"> Simple Switch Statement </a>
 <li > <a  class="container-fluid" href="stringManipulation.php" class="navbar-brand" href="#"> Simple String Manipulation </a>
 <li > <a  class="container-fluid" href="dateTimeManipulation.php" class="navbar-brand" href="#"> Date and Time Manipulation </a>
 <li > <a class="container-fluid"  href="functions.php" class="navbar-brand" href="#" > Functions </a>
