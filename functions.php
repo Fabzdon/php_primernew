@@ -43,7 +43,7 @@
     }
     $getAvg = findsum($num1, $num2, $num3);
 
-    echo "The Sum of the numbers are: " . $getAvg; 
+    echo "The Sum of the numbers are: " . " " . $getAvg; 
 
 
     ?>
