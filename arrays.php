@@ -19,7 +19,7 @@
 
     for($i = 0; $i < 9; $i++){
 
-        echo "<p> $variables[$i] </p>";
+        echo "<p> Array position $i has the number: $variables[$i] </p>";
 
     }
 
